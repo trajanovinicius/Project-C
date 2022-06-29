@@ -4,8 +4,7 @@
 int main()
 {
   setlocale(LC_ALL, "portuguese");
-
-  printf("Olá mundo!");
+  printf("Olá mundo!\n"); // \n usado para colocar quebra de linhas
 
   return 0;
 }
